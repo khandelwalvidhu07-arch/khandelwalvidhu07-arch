@@ -1,5 +1,5 @@
 <h1 align="center">Hi ‹, I'm vidhuraj khanddelwal</h1>
-<h3 align="center">Full-Stack Developer Â· Software Engineer Â· AI Enthusiast</h3>
+<h3 align="center">Full-Stack Developer < Software Engineer < AI Enthusiast</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;AI+%26+Gen-AI+Explorer;Building+Intelligent+Web+Apps;Computer+Engineering+%40+SPPU+Pune" alt="Typing SVG" />
@@ -9,7 +9,7 @@
 
 ### » About Me
 
-- > **S.E (2nd Year)** â€” Computer Engineering @ **SPPU, Pune**
+- > **S.E (2nd Year)**  Computer Engineering @ **SPPU, Pune**
 - > Passionate about building **AI-powered web applications** using modern full-stack tools
 - > Exploring **Generative AI** and integrating **LLMs** like Google Gemini into real-world products
 - > Currently sharpening skills in **Next.js**, **DSA**, and **Competitive Programming**
