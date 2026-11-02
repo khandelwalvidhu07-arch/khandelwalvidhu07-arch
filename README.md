@@ -70,21 +70,21 @@ An AI-powered social media content automation project.
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khandelwalvidhu07-arch&theme=tokyonight" width="100%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khandelwalvidhu07-arch&theme=tokyonight" width="100%" alt="GitHub Profile Summary"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=khandelwalvidhu07-arch&theme=tokyonight" width="49%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=khandelwalvidhu07-arch&theme=tokyonight" width="49%" alt="GitHub Stats"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=khandelwalvidhu07-arch&theme=tokyonight" width="49%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=khandelwalvidhu07-arch&theme=tokyonight" width="49%" alt="Top Languages"/>
 
 </div>
 
 ---
 
-## 🔥 Contribution Streak
+## 🔥 GitHub Contribution Streak
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=khandelwalvidhu07-arch&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com/?user=khandelwalvidhu07-arch&theme=tokyonight&hide_border=true" width="80%" alt="GitHub Streak"/>
 
 </div>
 
@@ -94,7 +94,7 @@ An AI-powered social media content automation project.
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=khandelwalvidhu07-arch&theme=tokyonight&no-frame=true&row=1&column=6" width="100%" />
+<img src="https://trophy.ryglcloud.net/?username=khandelwalvidhu07-arch&theme=tokyonight&no-frame=true&row=1&column=6" width="100%" alt="GitHub Trophies"/>
 
 </div>
 
@@ -104,7 +104,7 @@ An AI-powered social media content automation project.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=khandelwalvidhu07-arch&theme=tokyo-night&hide_border=true" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=khandelwalvidhu07-arch&theme=tokyo-night&hide_border=true" width="100%" alt="Contribution Graph"/>
 
 </div>
 
