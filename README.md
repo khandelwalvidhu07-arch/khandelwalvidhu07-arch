@@ -1,9 +1,9 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:0077FF,100:00D4FF&height=220&section=header&text=VIDHURAJ%20KHANDELWAL&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%7C%20PYTHON%20%7C%20FULL%20STACK%20DEVELOPER&descAlignY=55&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:0077FF,100:00D4FF&height=210&section=header&text=VIDHURAJ%20KHANDELWAL&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=PYTHON%20%7C%20GENERATIVE%20AI%20%7C%20FULL%20STACK&descAlignY=55&descSize=15" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub!;Aspiring+AI+%26+Full+Stack+Developer;Python+%7C+Generative+AI+Enthusiast;Building+Intelligent+Applications;Learning+%7C+Building+%7C+Growing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2500&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&lines=Aspiring+AI+%26+Full+Stack+Developer;Python+Developer+in+Progress;Exploring+Generative+AI+%26+LLMs;Building+Real+World+Projects;Learning+with+NextWave" />
 
 </div>
 
@@ -12,10 +12,10 @@
 ## 👨‍💻 About Me
 
 - 🎓 Computer Engineering Student | SPPU, Pune
-- 🚀 Learning Python, Generative AI & Full-Stack Development with NextWave.
-- 🤖 Currently working on AI-powered projects.
-- 🧠 Exploring LLMs, Generative AI and AI integration.
-- 💡 Interested in solving real-world problems through technology.
+- 🐍 Learning Python Programming.
+- 🤖 Exploring Generative AI, LLMs and Google Gemini.
+- 🌐 Learning Full-Stack Development with NextWave.
+- 🚀 Currently building AI-powered projects.
 - 🎯 Aspiring AI & Full-Stack Developer.
 
 ---
@@ -28,7 +28,7 @@
 
 </div>
 
-**AI Technologies:** Google Gemini | Generative AI | LLMs
+**AI & GenAI:** Google Gemini | Generative AI | LLMs
 
 ---
 
@@ -36,33 +36,23 @@
 
 ### 🕵️ AI Mystery Investigation Room
 
-An interactive AI-powered detective deduction game.
+An interactive AI-powered detective game.
 
-- 🤖 Google Gemini integration
-- 🗄️ MongoDB database
-- 🔍 Interactive investigation experience
+- Google Gemini integration
+- MongoDB database
+- Interactive investigation experience
 
-[🔗 View Project](https://github.com/khandelwalvidhu07-arch/AI-mystery-INVASTIGATION-ROOM)
+[View Repository](https://github.com/khandelwalvidhu07-arch/AI-mystery-INVASTIGATION-ROOM)
 
 ### 🤖 AI Social Media Content Automation
 
-An AI-powered social media content automation project.
+An AI-based social media automation workflow.
 
-- ⚡ Content automation workflow
-- 🤖 AI integration
-- 🔧 Workflow development
+- Content automation
+- AI integration
+- Workflow development
 
-[🔗 Explore Repositories](https://github.com/khandelwalvidhu07-arch?tab=repositories)
-
----
-
-## 📚 Currently Learning
-
-- 🐍 Python Programming
-- 🤖 Generative AI & LLMs
-- 🌐 Full-Stack Web Development
-- 🧠 AI Application Development
-- ⚡ Practical project development with NextWave
+[Explore My Repositories](https://github.com/khandelwalvidhu07-arch?tab=repositories)
 
 ---
 
@@ -70,43 +60,53 @@ An AI-powered social media content automation project.
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khandelwalvidhu07-arch&theme=tokyonight" width="100%" alt="GitHub Profile Summary"/>
+<img src="https://ghstats.dev/api/card?username=khandelwalvidhu07-arch&theme=tokyonight" width="100%" alt="GitHub Stats"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=khandelwalvidhu07-arch&theme=tokyonight" width="49%" alt="GitHub Stats"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=khandelwalvidhu07-arch&theme=tokyonight" width="49%" alt="Top Languages"/>
+<img src="https://ghstats.dev/api/langs?username=khandelwalvidhu07-arch&theme=tokyonight&layout=bar" width="100%" alt="Top Languages"/>
 
 </div>
 
 ---
 
-## 🔥 GitHub Contribution Streak
+## 🔥 Contribution Streak
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=khandelwalvidhu07-arch&theme=tokyonight&hide_border=true" width="80%" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com/?user=khandelwalvidhu07-arch&theme=tokyonight&hide_border=true" width="85%" alt="GitHub Contribution Streak"/>
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Trophy Showcase
 
 <div align="center">
 
-<img src="https://trophy.ryglcloud.net/?username=khandelwalvidhu07-arch&theme=tokyonight&no-frame=true&row=1&column=6" width="100%" alt="GitHub Trophies"/>
+<img src="https://trophy.ryglcloud.net/?username=khandelwalvidhu07-arch&theme=tokyonight&no-frame=true&row=1&column=6" width="100%" alt="GitHub Trophy Showcase"/>
 
 </div>
 
 ---
 
-## 📈 Contribution Activity
+## 📈 Official GitHub Contributions
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=khandelwalvidhu07-arch&theme=tokyo-night&hide_border=true" width="100%" alt="Contribution Graph"/>
+<a href="https://github.com/khandelwalvidhu07-arch">
+<img src="https://ghchart.rshah.org/0077FF/khandelwalvidhu07-arch" width="100%" alt="GitHub Contribution Calendar"/>
+</a>
 
 </div>
+
+---
+
+## 📚 Currently Learning
+
+- Python Programming
+- Generative AI & LLMs
+- Full-Stack Development
+- AI Application Development
+- Real-world project building with NextWave
 
 ---
 
@@ -134,6 +134,6 @@ An AI-powered social media content automation project.
 
 ### 💙 DREAM BIG • BUILD SMART • KEEP LEARNING
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,100:050816&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,100:050816&height=110&section=footer" width="100%"/>
 
 </div>
