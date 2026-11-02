@@ -3,7 +3,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:0077FF,100:00D4FF&height=220&section=header&text=VIDHURAJ%20KHANDELWAL&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%7C%20PYTHON%20%7C%20FULL%20STACK%20DEVELOPER&descAlignY=55&descSize=16" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+Profile!;Aspiring+AI+%26+Full+Stack+Developer;Python+%7C+Generative+AI+Enthusiast;Building+Intelligent+Applications;Learning+%7C+Building+%7C+Growing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub!;Aspiring+AI+%26+Full+Stack+Developer;Python+%7C+Generative+AI+Enthusiast;Building+Intelligent+Applications;Learning+%7C+Building+%7C+Growing" />
 
 </div>
 
@@ -15,7 +15,7 @@
 - 🚀 Learning Python, Generative AI & Full-Stack Development with NextWave.
 - 🤖 Currently working on AI-powered projects.
 - 🧠 Exploring LLMs, Generative AI and AI integration.
-- 💡 Interested in building real-world technology solutions.
+- 💡 Interested in solving real-world problems through technology.
 - 🎯 Aspiring AI & Full-Stack Developer.
 
 ---
@@ -52,7 +52,7 @@ An AI-powered social media content automation project.
 - 🤖 AI integration
 - 🔧 Workflow development
 
-[🔗 Explore My Repositories](https://github.com/khandelwalvidhu07-arch?tab=repositories)
+[🔗 Explore Repositories](https://github.com/khandelwalvidhu07-arch?tab=repositories)
 
 ---
 
@@ -62,7 +62,7 @@ An AI-powered social media content automation project.
 - 🤖 Generative AI & LLMs
 - 🌐 Full-Stack Web Development
 - 🧠 AI Application Development
-- ⚡ Building practical projects with NextWave
+- ⚡ Practical project development with NextWave
 
 ---
 
@@ -70,9 +70,11 @@ An AI-powered social media content automation project.
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=khandelwalvidhu07-arch&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khandelwalvidhu07-arch&theme=tokyonight" width="100%" />
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khandelwalvidhu07-arch&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=khandelwalvidhu07-arch&theme=tokyonight" width="49%" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=khandelwalvidhu07-arch&theme=tokyonight" width="49%" />
 
 </div>
 
@@ -119,6 +121,10 @@ An AI-powered social media content automation project.
 <a href="mailto:khandelwalvidhu07@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
+<br/><br/>
+
+📧 **Email:** khandelwalvidhu07@gmail.com
 
 </div>
 
