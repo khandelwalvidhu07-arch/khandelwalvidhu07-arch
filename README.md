@@ -1,9 +1,14 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:0077FF,100:00D4FF&height=210&section=header&text=VIDHURAJ%20KHANDELWAL&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=PYTHON%20%7C%20GENERATIVE%20AI%20%7C%20FULL%20STACK&descAlignY=55&descSize=15" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=200&section=header&text=VIDHURAJ%20KHANDELWAL&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2500&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&lines=Aspiring+AI+%26+Full+Stack+Developer;Python+Developer+in+Progress;Exploring+Generative+AI+%26+LLMs;Building+Real+World+Projects;Learning+with+NextWave" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00C9FF&center=true&vCenter=true&width=600&lines=Computer+Engineering+Student;Python+Learner;Generative+AI+Enthusiast;Aspiring+Full-Stack+Developer" />
+
+<p>
+  <img src="https://img.shields.io/badge/Student-SPPU%20Pune-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Learning-NextWave-green?style=for-the-badge" />
+</p>
 
 </div>
 
@@ -11,48 +16,44 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Computer Engineering Student | SPPU, Pune
+- 🎓 Computer Engineering Student at SPPU, Pune.
 - 🐍 Learning Python Programming.
 - 🤖 Exploring Generative AI, LLMs and Google Gemini.
 - 🌐 Learning Full-Stack Development with NextWave.
-- 🚀 Currently building AI-powered projects.
+- 🚀 Building AI-powered projects.
 - 🎯 Aspiring AI & Full-Stack Developer.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Skills & Technologies
 
-<div align="center">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,react,nodejs,mongodb,git,github,vscode" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=python,html,css,js,react,nodejs,mongodb,git,github,vscode&theme=dark" />
-
-</div>
-
-**AI & GenAI:** Google Gemini | Generative AI | LLMs
+**Currently Exploring:** Python | Generative AI | LLMs | Full-Stack Development
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 🕵️ AI Mystery Investigation Room
-
-An interactive AI-powered detective game.
+An interactive AI-powered detective investigation game.
 
 - Google Gemini integration
 - MongoDB database
 - Interactive investigation experience
 
-[View Repository](https://github.com/khandelwalvidhu07-arch/AI-mystery-INVASTIGATION-ROOM)
+🔗 [View Project](https://github.com/khandelwalvidhu07-arch/AI-mystery-INVASTIGATION-ROOM)
 
 ### 🤖 AI Social Media Content Automation
-
-An AI-based social media automation workflow.
+An AI-powered social media automation workflow.
 
 - Content automation
 - AI integration
-- Workflow development
+- n8n and Google Sheets workflow
 
-[Explore My Repositories](https://github.com/khandelwalvidhu07-arch?tab=repositories)
+🔗 [View Project](https://github.com/khandelwalvidhu07-arch/AI-SOCIAL-MEDIA-CONTENT-AUTOMATION-WORK-FLOW)
 
 ---
 
@@ -60,41 +61,21 @@ An AI-based social media automation workflow.
 
 <div align="center">
 
-<img src="https://ghstats.dev/api/card?username=khandelwalvidhu07-arch&theme=tokyonight" width="100%" alt="GitHub Stats"/>
-
-<img src="https://ghstats.dev/api/langs?username=khandelwalvidhu07-arch&theme=tokyonight&layout=bar" width="100%" alt="Top Languages"/>
+<img src="https://ghstats.dev/api/card?username=khandelwalvidhu07-arch&theme=tokyonight" width="90%" />
 
 </div>
 
 ---
 
-## 🔥 Contribution Streak
+## 🔥 Contribution Streak & Activity
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=khandelwalvidhu07-arch&theme=tokyonight&hide_border=true" width="85%" alt="GitHub Contribution Streak"/>
+<img src="https://streak-stats.demolab.com?user=khandelwalvidhu07-arch&theme=tokyonight&hide_border=true" width="90%" />
 
-</div>
+<br/><br/>
 
----
-
-## 🏆 GitHub Trophy Showcase
-
-<div align="center">
-
-<img src="https://trophy.ryglcloud.net/?username=khandelwalvidhu07-arch&theme=tokyonight&no-frame=true&row=1&column=6" width="100%" alt="GitHub Trophy Showcase"/>
-
-</div>
-
----
-
-## 📈 Official GitHub Contributions
-
-<div align="center">
-
-<a href="https://github.com/khandelwalvidhu07-arch">
-<img src="https://ghchart.rshah.org/0077FF/khandelwalvidhu07-arch" width="100%" alt="GitHub Contribution Calendar"/>
-</a>
+<img src="https://ghchart.rshah.org/00C9FF/khandelwalvidhu07-arch" width="95%" />
 
 </div>
 
@@ -112,21 +93,17 @@ An AI-based social media automation workflow.
 
 ## 🤝 Connect With Me
 
-<div align="center">
-
-<a href="https://github.com/khandelwalvidhu07-arch">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="mailto:khandelwalvidhu07@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-📧 **Email:** khandelwalvidhu07@gmail.com
-
-</div>
+<p align="center">
+  <a href="https://github.com/khandelwalvidhu07-arch">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/vidhuraj-khandelwal">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:khandelwalvidhu07@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
 
 ---
 
@@ -134,6 +111,6 @@ An AI-based social media automation workflow.
 
 ### 💙 DREAM BIG • BUILD SMART • KEEP LEARNING
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,100:050816&height=110&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=100&section=footer" width="100%" />
 
 </div>
